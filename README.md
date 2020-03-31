@@ -1,6 +1,6 @@
 
 ### Table of Contents
-
+0. updated timestamp: 03.31.2020
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
